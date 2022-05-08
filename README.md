@@ -5,7 +5,7 @@ Rui Santos's tutorial on this subject:
 https://randomnerdtutorials.com/esp32-cam-pan-and-tilt-2-axis/
 and Andreas Spiess's tutorial on creating 3D printed paramatized cases for our projects https://www.youtube.com/watch?v=lBK0UBjVrYM
 
-This project is heavily based on the  above link. I have added a couple features and accessories
+This project is heavily based on the  above links. I have added a couple features and accessories, there are more being added over time.
 
 1: Added the ability to "sweep" the servos left, right, up or down and "home".
 
