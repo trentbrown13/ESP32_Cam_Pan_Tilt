@@ -1,6 +1,9 @@
 # ESP32_Cam_Pan_Tilt
 
-ESP-32 cam project with pan/tilt servers and a 3D printed case based on https://randomnerdtutorials.com/esp32-cam-pan-and-tilt-2-axis/
+ESP-32 cam project with pan/tilt servers and a 3D printed case based on 
+Rui Santos's tutorial on this subject:
+https://randomnerdtutorials.com/esp32-cam-pan-and-tilt-2-axis/
+and Andreas Spiess's tutorial on creating 3D printed paramatized cases for our projects https://www.youtube.com/watch?v=lBK0UBjVrYM
 
 This project is heavily based on the  above link. I have added a couple features and accessories
 
